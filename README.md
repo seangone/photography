@@ -1,3 +1,4 @@
-# photography
+Photography
+####
 
-[Focal Length](./Notes-Focal Length.md)
+[Focal Length](Notes-Focal Length.md)
