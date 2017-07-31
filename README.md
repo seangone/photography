@@ -1,4 +1,4 @@
 Photography
 ====
 
-[Focal Length](Notes-Focal Length.md)
+[Focal Length](photography/Notes-Focal Length.md)
