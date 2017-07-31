@@ -32,7 +32,12 @@ Why the 35mm equivalent focal length is introduced is that different camera have
 
 
 Reference:
+----
 
-[https://expertphotography.com/understand-focal-length-4-easy-steps/](https://expertphotography.com/understand-focal-length-4-easy-steps/)
+1. [Understand focal length 4 easy steps](1)
 
-[http://www.nikonusa.com/en/learn-and-explore/a/tips-and-techniques/understanding-focal-length.html](http://www.nikonusa.com/en/learn-and-explore/a/tips-and-techniques/understanding-focal-length.html)
+2. [Understand focal length](2)
+
+[1]:https://expertphotography.com/understand-focal-length-4-easy-steps/ "Understand focal length 4 easy steps"
+
+[2]:http://www.nikonusa.com/en/learn-and-explore/a/tips-and-techniques/understanding-focal-length.html "Understand focal length"
